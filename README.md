@@ -1,1 +1,2 @@
-# -
+# Repo說明
+本篇repo主要目的是介紹如何使用Python和BeautifulSoup4來進行資料撰寫網路爬蟲
